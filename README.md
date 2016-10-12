@@ -1,8 +1,9 @@
-# [ Project ]
+# Crowd2Map Tanzania
 
-[ Project vision or mission statement. [Tips on writing your vision](https://acabunoc.github.io/mozfest-open-projects-2016/articles/vision/).]
+We are working with worldwide volunteers & locals in Tanzania to improve the maps of rural regions - maps are essential to support development and humanitarian efforts in the country, particularly in protecting girls from female genital mutilation (FGM), ensuring they get quality education and can continue to shape their own futures.
 
-[ If you have one, add your logo or an image here ]
+<img src="https://github.com/seplute/crowd2map/blob/master/images/CROWD2MAP%20TANZANIA.png" width="350">
+
 
 [ Your longer project description goes here. Use this space to welcome newcomers, articulate the problem you're trying to solve, and explain your solution. For help on writing a good readme, see [this exercise](http://mozillascience.github.io/working-open-workshop/writing_readme/). ]
 
