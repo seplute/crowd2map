@@ -16,7 +16,7 @@ See more about how mapping supports this important work at Mugumu Safe House in 
 
 ### How are we mapping?
 
-1. **Satellite mapping** - volunteers worldwide can contribute to the project by doing mapping at openstreetmap.org. Currently we are working on this task: tasks.hotosm.org/project/1788. All you need to contribute is an openstreetmap.org account.
+1. **Satellite mapping** - volunteers worldwide can contribute to the project by doing mapping at openstreetmap.org. Currently we are working on this task: http://tasks.hotosm.org/project/1788. All you need to contribute is an openstreetmap.org account.
 
 2. **Local mapping "on the ground"** - locals in Tanzania are encouraged to map their own communities via Maps.me app. Often the knowledge of rural areas, even the correct locations and names of the villages are limited to local knowledge only. We incentivize locals to map their areas, by running regular competitions with monetary prizes for the most added points. Here are the Maps.me points added in Tanzania: http://mmwatch.osmz.ru/?country=Tanzania
 
@@ -24,7 +24,7 @@ See more about how mapping supports this important work at Mugumu Safe House in 
 
 Getting started depends on how would you like to contribute to Crowd2Map Tanzania!
 
-* If you would like to be involved in **satellite mapping**, all you need is an account at openstreetmap.org, a laptop, and, preferably, a mouse. The rest of the instructions can be found here: tasks.hotosm.org/project/1788
+* If you would like to be involved in **satellite mapping**, all you need is an account at openstreetmap.org, a laptop, and, preferably, a mouse. The rest of the instructions can be found here: http://tasks.hotosm.org/project/1788
 
 * To participate in **local mapping** in Tanzania with Maps.me please refer to these intructions: http://bit.ly/MapsMeTz. You will need to download the Maps.me app to your phone.
 
