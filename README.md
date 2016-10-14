@@ -12,7 +12,7 @@ By mapping particular objects (e.g. schools) we can help governments and humanit
 
 Most importantly, our current focus lies on female genital mutilation (FGM) and saving more girls from the life-threatening practice in rural Tanzania. We are working with Mugumu Safe House to enable outreach in the villages of the region of Mara, and letting the girls know where and how they can see help. Without maps it is impossible to know where are remote villages or settlemenets, where are there roads or bridges leading up to them, do fuel planning, and inform girls about the location of the Safe House. 
 
-See more about how mapping supports this important work at Mugumu Safe House in these videos, firsthand from Rhobi who rund the Safe House: https://youtu.be/x1vxrZfLwCM and https://youtu.be/-Etasex8Qcw
+See more about how mapping supports this important work at Mugumu Safe House in these videos, firsthand from Rhobi who runs the Safe House: https://youtu.be/x1vxrZfLwCM and https://youtu.be/-Etasex8Qcw
 
 ### How are we mapping?
 
