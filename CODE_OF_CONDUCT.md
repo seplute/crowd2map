@@ -1,7 +1,3 @@
-Use the MozFest participation guidelines below, or write you own Code of Coduct [using this exercise]().
-
----
-
 <!--- MOZFEST PARTICIPATION GUIDLINES --->
 # Participation Guidelines
 
