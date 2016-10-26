@@ -1,16 +1,10 @@
-# Contributing to [Project]
+# Contributing to Crowd2Map Tanzania
 
-Add a bit of welcome and cheer at the top
->Thank you for your interest in contributing to [Project] :tada:! 
+>Thank you for your interest in contributing to Crowd2Map Tanzania :tada:! 
 
-Restart your project vision here. Redundancy is your friend
->[Project] is ...
+>Crowd2Map Tanzania is a crowdsourced mapping project, aiming to map rural Tanzania, thus improving the development in the region and fighting for important causes, such as ending female genital mutilation (FGM).
 
-Add some info on *why* people should read your contributor guidelines and *what* they are.
-
->This documents is a set of guidelines for contributing to [Project] on GitHub. These are guidelines, not rules. This guide is meant to make it easy for you to get involved.
-
-If your guide is long, consider adding a table of contents.
+>This documents is a set of guidelines for contributing to Crowd2Map Tanzania on GitHub. These are guidelines, not rules. This guide is meant to make it easy for you to get involved.
 
 * [Participation guidelines](#participation-guidelines)
 * [What we're working on](#what-were-working-on)
@@ -20,19 +14,14 @@ If your guide is long, consider adding a table of contents.
 
 ## Participation guidelines
 
-This project adheres to a [code of conduct](CODE_OF_CONDUCT.md). By participating, you are expected to uphold this code. Please report unacceptable behavior to [EMAIL].
+This project adheres to a [code of conduct](CODE_OF_CONDUCT.md). By participating, you are expected to uphold this code. Please report unacceptable behavior to [emramanauskaite@gmail.com].
 
 ## What we're working on
 
-This is a good place to link your Roadmap, GitHub Milestones, or Projects so newcomers can see what you're working on.
+> Take a look at the issues in our [milestones](https://github.com/seplute/crowd2map/milestones)!
 
-> Take a look at the issues in our [current milestone](https://github.com/acabunoc/mozfest-repo-template/milestone/1) or browse some [good first bugs](https://github.com/acabunoc/mozfest-repo-template/labels/good%20first%20bug) to get started!
-
-Take a look at this [Roadmapping exercise](http://mozillascience.github.io/working-open-workshop/roadmapping/) to start making your own milestones and issues. This will help newcomers (& MozFest attendees!) know where they can help.
 
 ## How to submit changes
-
-Explain how you want contributors to propose changes. For an example GitHub workflow, see Node.js's [instructions for code contributions](https://github.com/nodejs/node/blob/master/CONTRIBUTING.md#code-contributions).
 
 > Once you've identified one of the issues above that you feel you can contribute to, you're ready to make a change to the project repository!
  
@@ -42,15 +31,14 @@ Explain how you want contributors to propose changes. For an example GitHub work
 
 > First time contributing to open source? Check out this *free* series, [How to Contribute to an Open Source Project on GitHub](https://egghead.io/series/how-to-contribute-to-an-open-source-project-on-github).
 
-## How to report bugs
-
-Ask your contributors to stay on the lookout for can any potential issue that might cause problems for the project. These could be problems in code (if you’re creating software), content omissions or copy errors (if you’re creating a learning resource), or any issues with the functionality or design of your project. 
-
-Most projects invite all contributors to report bugs, so "debugging" or fixing problems happens quickly and with the input of the community. Take a look at [Atom's example](https://github.com/atom/atom/blob/master/CONTRIBUTING.md#reporting-bugs) for how to teach people to report bugs to your project.
+## How to report mistakes
 
 > Notice a mistake? Please file any bugs, requests, or questions in our issue tracker [LINK TO ISSUE TRACKER]!
 
 ## Communication channels
 
-Do you have a chat room or email list you use to discuss this project? List them all here! Provide clear contact info, and outline the process for getting in touch, for anyone with questions.
+emramanauskaite@gmail.com; j.chapman@tanzdevtrust.org 
+
+@Crowd2Map on Twitter & Instagram, Facebook group: https://www.facebook.com/groups/1551808625147532/
+WhatsApp chat group: https://chat.whatsapp.com/KY5GKiBSik7HSLQydCKUrJ
 
